@@ -1,1 +1,1 @@
-# originalPRmodel
+# Pinsky Rinzel model
