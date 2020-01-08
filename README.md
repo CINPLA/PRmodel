@@ -1,8 +1,10 @@
-# Pinsky-Rinzel model
+# The Pinsky-Rinzel model
 
-originalPRmodel is an implementation of the Pinsky-Rinzel model 
-(see, [https://link.springer.com/article/10.1007/BF00962717](https://link.springer.com/article/10.1007/BF00962717)).
-The code was used to produce some of the results in Sætra et al. 202X: [lenke]
+This is an implementation of the Pinsky-Rinzel model 
+(see Pinsky and Rinzel 1994, 
+[https://link.springer.com/article/10.1007/BF00962717](https://link.springer.com/article/10.1007/BF00962717)).
+The code was used to produce some of the results presented
+in Sætra et al. 202X: [lenke]
 
 ## Installation 
 
