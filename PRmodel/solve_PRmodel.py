@@ -2,7 +2,7 @@ from scipy.integrate import solve_ivp, odeint
 import numpy as np
 from math import exp
 
-def solve_originalPRmodel(t_dur, g_c, I_stim, stim_start, stim_end):
+def solve_PRmodel(t_dur, g_c, I_stim, stim_start, stim_end):
 
     C_m = 3.     # membrane capacitance [uF cm**-2]
     p = 0.5      # proportion of the membrane area taken up by the soma
