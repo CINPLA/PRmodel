@@ -11,5 +11,6 @@ in Sætra et al. 202X: [lenke]
 Clone or download the repo, navigate to the top directory of the repo and enter the following
 command in the terminal: 
 ```bash
-python3 setup.py install
+python setup.py install
 ```
+The code was developed for Python 3.6.
